@@ -1,0 +1,31 @@
+
+<!-- -------------------------------------------------------- -->
+<!-- junit 4.* --> 
+<!-- -------------------------------------------------------- -->
+
+
+<!-- -------------------------------------------------------- -->
+<!-- junit  4.12 -->
+<!-- -------------------------------------------------------- -->
+<!-- https://mvnrepository.com/artifact/junit/junit -->
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.12</version>
+    <scope>test</scope>
+</dependency>
+
+
+<!-- -------------------------------------------------------- -->
+<!-- junit  4.0 -->
+<!-- -------------------------------------------------------- -->
+
+<!-- https://mvnrepository.com/artifact/junit/junit -->
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.0</version>
+    <scope>test</scope>
+</dependency>
+
+<!-- -------------------------------------------------------- -->

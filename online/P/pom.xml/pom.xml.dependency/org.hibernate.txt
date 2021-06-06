@@ -1,0 +1,41 @@
+
+<!-- -------------------------------------------------------- -->
+<!-- org.hibernate --> 
+<!-- -------------------------------------------------------- -->
+<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager -->
+
+
+<!-- -------------------------------------------------------- -->
+<!-- org.hibernate  5.5.0.Final -->
+<!-- -------------------------------------------------------- -->
+<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager -->
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-entitymanager</artifactId>
+    <version>5.5.0.Final</version>
+</dependency>
+
+
+<!-- -------------------------------------------------------- -->
+<!-- org.hibernate  5.4.32.Final -->
+<!-- -------------------------------------------------------- -->
+
+<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager -->
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-entitymanager</artifactId>
+    <version>5.4.32.Final</version>
+</dependency>
+
+
+<!-- -------------------------------------------------------- -->
+<!-- junit  5.4.31.Final -->
+<!-- -------------------------------------------------------- -->
+<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager -->
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-entitymanager</artifactId>
+    <version>5.4.31.Final</version>
+</dependency>
+
+

@@ -1,0 +1,30 @@
+
+<!-- -------------------------------------------------------- -->
+<!-- junit 5.* --> 
+<!-- -------------------------------------------------------- -->
+
+
+<!-- -------------------------------------------------------- -->
+<!-- junit  5.8.0 -->
+<!-- -------------------------------------------------------- -->
+<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+<dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter-api</artifactId>
+    <version>5.8.0-M1</version>
+    <scope>test</scope>
+</dependency>
+
+
+<!-- -------------------------------------------------------- -->
+<!-- junit  5.4.0 -->
+<!-- -------------------------------------------------------- -->
+<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+<dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter-api</artifactId>
+    <version>5.4.0-M1</version>
+    <scope>test</scope>
+</dependency>
+
+<!-- -------------------------------------------------------- -->
