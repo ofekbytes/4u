@@ -1,0 +1,28 @@
+
+---[java spring boot getting started]------------------------------------------------
+
+* "new naven project"
+** "tool bar" --> "file" --> "new" --> "project" --> "maven" --> "maven project"
+
+
+* screen 1 - 3
+** "new maven project" 
+   (create project name and location)
+[x] create a simple project (skip archetype selection)
+
+
+* screen 2 - 3
+** "enter a group id for the artifact"
+
+---[artifact]------------
+"group id" :  ofekbytes.springboot   // package name (project name space)
+"artifact id" : apiServices   // project name
+"version" : 0.0.1   // starting program version 
+"packaging" : jar   // select jar/pom/war
+"name" : "Spring boot API" :    // filing the details in the names 
+"description" : "java Spring boot API examples"  // the description
+
+
+
+
+
