@@ -7,3 +7,9 @@
 <!-- How to fix Dynamic Web Project missing in Eclipse issue --> 
 <!-- -------------------------------------------------------- -->
 https://beginnersbook.com/2017/06/how-to-fix-dynamic-web-project-missing-in-eclipse-issue/
+
+* install topic
+** Eclipse Java EE Developer Tools	3.9.2.v201711302141
+** Eclipse Java Web Developer Tools	 3.9.0.v201711302141
+
+* Web, XML, Java EE and OSGi Enterprise Development	

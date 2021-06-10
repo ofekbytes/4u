@@ -1,9 +1,10 @@
-
-
 ---[main page subject]--------------------------------------------------
 
-
-* main page - url
-** sub main - the required subject - url
-
-
+* name:
+** name of the url
+* description:
+** description for this page
+* internet url:
+** http://www.url.co.il
+* see also: 
+** subjects + path
