@@ -1,6 +1,9 @@
-
+-
+---[emoji-git]------------
+-
+-
+-
 ---[Face Smiling]------------
-
 :grinning: 
 :smiley: 
 :smile:
@@ -15,81 +18,65 @@
 :wink:
 :blush: 
 :innocent:
-
-
-
+-
+-
 ---[Face Affection]------------
-
-top :smiling_face_with_three_hearts: :heart_eyes:
-top :star_struck: :kissing_heart:
-top :kissing: :relaxed:
-top :kissing_closed_eyes: :kissing_smiling_ey
-
-
-
+:smiling_face_with_three_hearts:
+:heart_eyes:
+:star_struck:
+:kissing_heart:
+:kissing:
+:relaxed:
+:kissing_closed_eyes:
+:kissing_smiling_ey
+-
+-
 ---[Face Tongue]------------
-
-top :yum: :stuck_out_tongue:
-top :stuck_out_tongue_winking_eye: :zany_face:
-top :stuck_out_tongue_closed_eyes: :money_mouth_face:
-
-
-
+:yum:
+:stuck_out_tongue:
+:stuck_out_tongue_winking_eye: 
+:zany_face:
+:stuck_out_tongue_closed_eyes: 
+:money_mouth_face:
+-
+-
 ---[Face Affection]------------
-
-ce Tongue
-ico
-shortcode
-ico
-shortcode
-top :yum: :stuck_out_tongue:
-top :stuck_out_tongue_winking_eye: :zany_face:
-top :stuck_out_tongue_closed_eyes: :money_mouth_face:
-
-
+:yum:
+:stuck_out_tongue:
+:stuck_out_tongue_winking_eye:
+:zany_face:
+:stuck_out_tongue_closed_eyes:
+:money_mouth_face:
+-
+-
 ---[Face Hand]------------
-
-Face Hand
-ico
-shortcode
-ico
-shortcode
-top :hugs: :hand_over_mouth: top
-top :shushing_face: :thinking: top
-
-
-
+:hugs:
+:hand_over_mouth:
+:shushing_face:
+:thinking:
+-
+-
 ---[Face Neutral Skeptical]------------
-
-Face Neutral Skeptical
-ico
-shortcode
-ico
-shortcode
-top :zipper_mouth_face: :raised_eyebrow: top
-top :neutral_face: :expressionless: top
-top :no_mouth: :smirk: top
-top :unamused: :roll_eyes: top
-top :grimacing: :lying_face: top
-
-
-
+:zipper_mouth_face:
+:raised_eyebrow:
+:neutral_face:
+:expressionless:
+:no_mouth:
+:smirk:
+:unamused:
+:roll_eyes:
+:grimacing:
+:lying_face:
+-
+-
 ---[Face Sleepy]------------
-
-Face Sleepy
-ico
-shortcode
-ico
-shortcode
-top :relieved: :pensive: top
-top :sleepy: :drooling_face: top
-top :sleeping:
-top
-
-
-
-
-
-
-
-
+:relieved:
+:pensive:
+:sleepy:
+:drooling_face:
+:sleeping:
+-
+-
+---[End-Of-File]------------
+-
+-
