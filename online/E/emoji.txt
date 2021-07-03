@@ -1,8 +1,9 @@
----[emoji]--------------------------------------------------
 
+---[ emoji ]--------------------------------------------------
 
-* https://unicode-table.com/
-** https://unicode-table.com/en/emoji/
-
-
+* name:  unicode-table
+* url #1:  https://unicode-table.com/
+* url #2:  https://unicode-table.com/en/emoji/
+* description: 
+** 🌏 Unicode Character Table and emoji 🌸
 

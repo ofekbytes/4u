@@ -1,0 +1,30 @@
+
+---[ editors ]--------------------------------------------------
+
+* name:  codepen
+* url:   https://codepen.io/
+* description: 
+** 
+
+* name:  stackblitz
+* url:   https://stackblitz.com/
+* description:
+** 
+
+* name:   liveweave
+* url:   https://liveweave.com/ 
+* description: 
+** 
+
+* name:  jsbin
+* url:   https://jsbin.com/
+* description:
+** 
+
+* name:  favicon
+* url:   https://www.favicon.cc/
+* description: 
+** draw a small icon (usually used for browser tabs)
+
+
+
