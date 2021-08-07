@@ -3,5 +3,10 @@
 
 * emmet
 
+* Bracket Pair Colorizer
+** A customizable extension for colorizing matching brackets.
+** <CoenraadS>
+** MIT License
+
 
 
