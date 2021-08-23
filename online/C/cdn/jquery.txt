@@ -1,0 +1,26 @@
+---[ jquery ]--------------------------------------------------
+
+
+---[jquery - Home Page]----
+https://code.jquery.com/
+
+
+---[jquery-3.6.0]----
+https://code.jquery.com/jquery-3.6.0.js
+
+
+---[jquery-3.6.0.min.js]----
+https://code.jquery.com/jquery-3.6.0.min.js
+
+
+---[jquery-3.6.0.slim.js]----
+https://code.jquery.com/jquery-3.6.0.slim.js
+
+
+---[jquery-3.6.0.slim.min.js]----
+https://code.jquery.com/jquery-3.6.0.slim.min.js
+
+
+---[example]---[jquery-3.6.0.slim.min.js] - script example ----
+<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+

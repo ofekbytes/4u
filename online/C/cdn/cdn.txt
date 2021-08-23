@@ -3,5 +3,7 @@
 jquery
 angularJs
 BootStrap
+dojo_toolkit
+
 
 

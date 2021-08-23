@@ -1,0 +1,16 @@
+---[ dojo_toolkit_cdn ]--------------------------------------------------
+
+
+---[1.16.4 - cdn]----
+https://download.dojotoolkit.org/release-1.16.4/dojo.js
+
+https://download.dojotoolkit.org/release-1.16.4/dojo.js.uncompressed.js
+
+
+---[1.16.4 - download]----
+https://download.dojotoolkit.org/release-1.16.4/
+
+https://download.dojotoolkit.org/release-1.16.3/
+
+
+
