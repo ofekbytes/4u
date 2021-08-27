@@ -1,0 +1,26 @@
+---[ dojo_toolkit ]--------------------------------------------------
+
+
+---[dojo 1.14.1]----
+https://ajax.googleapis.com/ajax/libs/dojo/1.14.1/dojo/dojo.js
+
+
+---[dojo 1.14.0]----
+https://ajax.googleapis.com/ajax/libs/dojo/1.14.0/dojo/dojo.js
+
+
+---[dojo 1.13.2]----
+https://ajax.googleapis.com/ajax/libs/dojo/1.13.2/dojo/dojo.js
+
+
+---[dojo 1.13.1]----
+https://ajax.googleapis.com/ajax/libs/dojo/1.13.1/dojo/dojo.js
+
+
+---[dojo 1.13.0]----
+https://ajax.googleapis.com/ajax/libs/dojo/1.13.0/dojo/dojo.js
+
+
+---[example]---[dojo 1.14.1] - script example ----
+<script src="https://ajax.googleapis.com/ajax/libs/dojo/1.14.1/dojo/dojo.js"></script>
+

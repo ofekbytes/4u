@@ -1,0 +1,14 @@
+---[ jquery_UI ]--------------------------------------------------
+
+
+---[jquery - Home Page]----
+https://code.jquery.com/
+
+
+---[jquery-ui_1.11.4]----
+https://code.jquery.com/ui/1.11.4/jquery-ui.js
+
+
+---[jquery-ui.min_1.11.4]----
+https://code.jquery.com/ui/1.11.4/jquery-ui.min.js
+
