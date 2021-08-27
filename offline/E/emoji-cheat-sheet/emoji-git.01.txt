@@ -32,15 +32,6 @@
 :kissing_smiling_ey
 -
 -
----[Face Tongue]------------
-:yum:
-:stuck_out_tongue:
-:stuck_out_tongue_winking_eye: 
-:zany_face:
-:stuck_out_tongue_closed_eyes: 
-:money_mouth_face:
--
--
 ---[Face Affection]------------
 :yum:
 :stuck_out_tongue:
