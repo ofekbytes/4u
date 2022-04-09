@@ -1,6 +1,9 @@
----[ cheat-sheet ]--------------------------------------------------
 
+
+---[ cheat-sheet ]--------------------------------------------------
 
 <!-- emmet -->
 https://docs.emmet.io/cheat-sheet/
 
+cheatography
+https://cheatography.com/

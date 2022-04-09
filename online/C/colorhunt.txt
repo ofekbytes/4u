@@ -1,3 +1,5 @@
+
+
 ---[ colorhunt ]--------------------------------------------------
 
 name:  
@@ -7,4 +9,4 @@ link:
 https://colorhunt.co/
 
 description:
-this site sujest you with a color template.
+Discover the newest hand-picked color palettes of Color Hunt.

@@ -1,6 +1,10 @@
----[ P ]--------------------------------------------------
 
+
+---[ P ]--------------------------------------------------
 
 [pom.xml]
 
-
+pom.xml - A Project Object Model or POM is the fundamental unit of work in Maven.  
+pdfescape - The original online Free PDF editor & form filler.
+Pixel­hunter - free AI image resizer for social media
+photopea - is a free online photo editor.
