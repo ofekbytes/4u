@@ -1,0 +1,21 @@
+There are several free and open-source databases available for server-side usage. Here are some popular options:
+
+MySQL: An open-source relational database management system (RDBMS) that is widely used for web applications. It's known for its reliability, ease of use, and strong community support.
+
+PostgreSQL: Another open-source RDBMS known for its advanced features, extensibility, and adherence to SQL standards. It's often used for complex data storage needs.
+
+SQLite: A self-contained, serverless, zero-configuration, transactional SQL database engine. It's embedded in many applications and supports most of the SQL standard.
+
+MongoDB: A NoSQL document database that is known for its flexibility and scalability. It stores data in JSON-like documents and is often used for applications with rapidly changing data requirements.
+
+CouchDB: An open-source NoSQL database that uses JSON to store data. It's designed for ease of use, scalability, and replication, making it suitable for applications that require offline access and synchronization.
+
+MariaDB: A community-developed, fork of MySQL, designed to remain free under the GNU GPL. It's known for its compatibility with MySQL and additional features.
+
+Redis: An open-source, in-memory data structure store, used as a database, cache, and message broker. It supports various data structures such as strings, hashes, lists, sets, and more.
+
+Elasticsearch: An open-source search and analytics engine that is often used as a distributed, RESTful search and analytics engine. It's commonly used for log and event data analysis.
+
+Neo4j: An open-source graph database that uses graph structures to store and query data. It's often used for applications involving complex relationships and network structures.
+
+These databases offer different features and are suitable for various use cases. The choice depends on your specific requirements, such as data structure, scalability, performance, and community support.
